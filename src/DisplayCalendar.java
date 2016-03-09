@@ -34,7 +34,7 @@ public class DisplayCalendar {
           case 12: System.out.printf("%28s","December " + year + '\n'); break;
         } // switch month
         
-        System.out.println("-----------------------------------------");
+        System.out.println("----------------------------------------");
         System.out.printf("%-6s%-6s%-6s%-6s%-6s%-6s%-6s\n", "Sun", "Mon",
                           "Tue", "Wed", "Thu", "Fri", "Sat");
         
